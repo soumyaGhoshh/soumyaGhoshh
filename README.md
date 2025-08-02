@@ -1,4 +1,4 @@
-#Soumya Ghosh
+# Soumya Ghosh
 
 🎓 **Education**
 - Integrated MTech in Artificial Intelligence from VIT Bhopal University
